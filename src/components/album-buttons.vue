@@ -2,25 +2,22 @@
   <div class="album-buttons">
     <Pagination />
     <div class="album-actions">
-      <button @click="clearAlbum">Очистить альбом ({{ albumCounter }})</button>
+      <button @click="clearAlbum">Очистить</button>
       <AlbumColumnSelect />
+      <button @click="toggleRecognition">🎤</button>
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue';
-import { useAlbum } from '../composables/use-album';
 import Pagination from './pagination.vue'
-import { usePagination } from '../composables/use-pagination';
-import AlbumColumnSelect from './album-column-select.vue';
+import AlbumColumnSelect from './album-column-select.vue'
 
-const { pagination } = usePagination()
-const { album, clearAlbum } = useAlbum()
+import { useAlbum } from '../composables/use-album'
+import { useRecognition } from '../composables/use-recognition'
 
-const albumCounter = computed(() => {
-  return `${album.value.length} / ${pagination.perPage * pagination.totalPages}`
-})
+const { toggleRecognition } = useRecognition()
+const { clearAlbum } = useAlbum()
 </script>
 
 <style scoped lang="scss">

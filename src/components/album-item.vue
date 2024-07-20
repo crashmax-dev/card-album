@@ -35,10 +35,10 @@ const height = computed(() => props.isLarge ? '350px' : '200px')
 }
 
 .album-item-active {
-  background-color: #646cff;
+  background-color: var(--main-color);
 }
 
 .album-item:hover {
-  border-color: #646cff;
+  border-color: var(--main-color);
 }
 </style>

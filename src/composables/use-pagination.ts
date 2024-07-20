@@ -1,4 +1,4 @@
-import { reactive } from 'vue'
+import { computed, reactive } from 'vue'
 import { createGlobalState, useMagicKeys } from '@vueuse/core'
 
 export const usePagination = createGlobalState(() => {
@@ -37,7 +37,10 @@ export const usePagination = createGlobalState(() => {
     }
   })
 
+  const totalItems = computed(() => pagination.perPage * pagination.totalPages)
+
   return {
+    totalItems,
     pagination,
     prevPage,
     nextPage,

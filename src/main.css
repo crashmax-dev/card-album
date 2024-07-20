@@ -9,6 +9,7 @@
   -moz-osx-font-smoothing: grayscale;
 
   --color: #213547;
+  --main-color: #646cff;
   --background: #fff;
   --background-button: #f9f9f9;
 }
@@ -32,6 +33,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  overflow: hidden;
 
   color: var(--color);
   background-color: var(--background);
@@ -39,7 +41,7 @@ body {
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: var(--main-color);
   text-decoration: inherit;
 }
 
@@ -67,5 +69,5 @@ button, select, input {
   width: 100%;
 }
 button:hover, select:hover {
-  border-color: #646cff;
+  border-color: var(--main-color);
 }
