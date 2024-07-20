@@ -6,7 +6,7 @@ import { useAlbum } from "./use-album"
 export const useRecognition = createGlobalState(() => {
   const { toggleAlbumItem } = useAlbum()
   const { totalItems, prevPage, nextPage } = usePagination()
-  const speech = useSpeechRecognition({ lang: 'ru-RU', interimResults: false })
+  const speech = useSpeechRecognition({ lang: 'ru-RU', interimResults: true })
 
   const actions = ['назад', 'вперёд']
   const grammarActions = `#JSGF V1.0; grammar actions; public <action> = ${actions.join(' | ')};`
@@ -19,8 +19,6 @@ export const useRecognition = createGlobalState(() => {
 
     watch(speech.result, (result) => {
       if (!speech.isFinal) return
-
-      console.log({ result })
 
       for (const text of result.toLowerCase().split(' ').reverse()) {
         const num = parseInt(text)
