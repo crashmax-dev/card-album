@@ -5,15 +5,9 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue';
-
-const props = defineProps<{
+defineProps<{
   active: boolean
-  isLarge: boolean
 }>()
-
-const width = computed(() => props.isLarge ? '250px' : '160px')
-const height = computed(() => props.isLarge ? '350px' : '200px')
 </script>
 
 <style scoped>
@@ -24,8 +18,8 @@ const height = computed(() => props.isLarge ? '350px' : '200px')
   border-radius: 16px;
   border: 1px solid #333;
   background-color: var(--background-button);
-  width: v-bind(width);
-  height: v-bind(height);
+  width: 100%;
+  height: 200px;
   cursor: pointer;
   transition: all 0.25s;
   font-size: 5rem;

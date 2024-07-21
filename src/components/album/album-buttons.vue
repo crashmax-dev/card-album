@@ -10,11 +10,11 @@
 </template>
 
 <script setup lang="ts">
-import Pagination from './pagination.vue'
+import Pagination from '../pagination.vue'
 import AlbumColumnSelect from './album-column-select.vue'
 
-import { useAlbum } from '../composables/use-album'
-import { useRecognition } from '../composables/use-recognition'
+import { useAlbum } from '@/composables/use-album'
+import { useRecognition } from '@/composables/use-recognition'
 
 const { toggleRecognition } = useRecognition()
 const { clearAlbum } = useAlbum()

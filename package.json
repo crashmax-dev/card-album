@@ -14,7 +14,9 @@
   },
   "devDependencies": {
     "@types/dom-speech-recognition": "0.0.4",
+    "@types/node": "20.14.11",
     "@vitejs/plugin-vue": "5.0.5",
+    "selenium-webdriver": "4.23.0",
     "typescript": "5.4.5",
     "vite": "5.3.4",
     "vue-tsc": "2.0.26"

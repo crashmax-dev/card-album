@@ -18,7 +18,6 @@
   display: flex;
   max-width: 1440px;
   margin: 0 auto;
-  overflow: hidden;
 }
 
 .dark {
@@ -31,9 +30,6 @@ body {
   margin: 0;
   display: flex;
   place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
-  overflow: hidden;
 
   color: var(--color);
   background-color: var(--background);

@@ -20,5 +20,6 @@ const gridColumns = computed(() => `repeat(${props.columns}, 1fr)`)
   grid-template-columns: v-bind(gridColumns);
   justify-items: center;
   gap: 8px;
+  width: 100%;
 }
 </style>

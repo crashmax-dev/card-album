@@ -13,8 +13,8 @@
 
 <script setup lang="ts">
 import { computed } from 'vue'
-import { useAlbum } from '../composables/use-album'
-import { usePagination } from '../composables/use-pagination'
+import { useAlbum } from '@/composables/use-album'
+import { usePagination } from '@/composables/use-pagination'
 
 const { album } = useAlbum()
 const { totalItems } = usePagination()

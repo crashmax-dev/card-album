@@ -15,7 +15,7 @@
 </template>
 
 <script setup lang="ts">
-import { usePagination } from '../composables/use-pagination'
+import { usePagination } from '@/composables/use-pagination'
 
 const { pagination, nextPage, prevPage } = usePagination()
 
