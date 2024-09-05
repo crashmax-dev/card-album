@@ -18,12 +18,12 @@ export const usePagination = createGlobalState(() => {
 
   function prevPage() {
     if (pagination.page === 1) return
-    pagination.page--
+    pagination.page -= 2
   }
 
   function nextPage() {
-    if (pagination.page === pagination.totalPages) return
-    pagination.page++
+    if (pagination.page >= pagination.totalPages - 2) return
+    pagination.page += 2
   }
 
   useMagicKeys({

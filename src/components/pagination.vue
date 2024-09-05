@@ -1,16 +1,14 @@
 <template>
   <div class="pagination">
-    <button @click="prevPage">Назад</button>
+    <button @click="prevPage" @wheel="prevPage">Назад</button>
     <select v-model="pagination.page">
-      <option
-        v-for="(i) in pagination.totalPages"
-        :key="i"
-        :value="i"
-      >
-        {{ currentPage(i) }} - {{ isOdd(i) ? 'лицевая' : 'задняя' }}
-      </option>
+      <template v-for="i in pagination.totalPages" :key="i">
+        <option v-if="isOdd(i)" :value="i">
+          {{ currentPage(i) }}
+        </option>
+      </template>
     </select>
-    <button @click="nextPage">Вперед</button>
+    <button @click="nextPage" @wheel="nextPage">Вперед</button>
   </div>
 </template>
 

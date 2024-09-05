@@ -18,7 +18,7 @@ defineProps<{
   border-radius: 16px;
   border: 1px solid #333;
   background-color: var(--background-button);
-  width: 100%;
+  width: 150px;
   height: 200px;
   cursor: pointer;
   transition: all 0.25s;
