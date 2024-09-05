@@ -1,0 +1,1566 @@
+{
+  "id": 446,
+  "name": "Супергонки",
+  "cards": [
+    {
+      "id": 1,
+      "name": "Alfa Romeo Montreal",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 2,
+      "name": "Бонус: Экстренная остановка",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 3,
+      "name": "Alfa Romeo Spider",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 4,
+      "name": "Audi A4 Allroad",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 5,
+      "name": "BMW 3.0 CSL",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 6,
+      "name": "BMW Z4 Roadster",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 7,
+      "name": "Cadillac CTS-V",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 8,
+      "name": "Chevrolet Camaro",
+      "type": "Спорткар",
+      "rarity": "СР"
+    },
+    {
+      "id": 9,
+      "name": "Mercedes-Benz R63L AMG",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 10,
+      "name": "DeLorean",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 11,
+      "name": "Бонус: Крутой спуск",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 12,
+      "name": "Ford GT40",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 13,
+      "name": "Ford Focus RS500",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 14,
+      "name": "Honda NSX-R",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 15,
+      "name": "Jaguar XFR",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 16,
+      "name": "Jeep Cherokee",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 17,
+      "name": "Koenigsegg CCX",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 18,
+      "name": "Chevrolet Suburban",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 19,
+      "name": "Marussia B2",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 20,
+      "name": "Mercedes-Benz C 63 AMG",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 21,
+      "name": "Mercedes-Benz CLK DTM AMG",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 22,
+      "name": "Бонус: Новые покрышки",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 23,
+      "name": "Panoz Esperante",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 24,
+      "name": "Porsche 968",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 25,
+      "name": "Бонус: Светофор",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 26,
+      "name": "Seat Leon Cupra R",
+      "type": "Спорткар",
+      "rarity": "Р"
+    },
+    {
+      "id": 27,
+      "name": "Spyker C8 Aileron Spyder",
+      "type": "Суперкар",
+      "rarity": "Р"
+    },
+    {
+      "id": 28,
+      "name": "Suzuki Grand Vitara",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 29,
+      "name": "Volkswagen Golf GTI",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 30,
+      "name": "Volkswagen Phaeton",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 31,
+      "name": "Zenvo ST1",
+      "type": "Суперкар",
+      "rarity": "СР"
+    },
+    {
+      "id": 32,
+      "name": "Alfa Romeo Spider",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 33,
+      "name": "Alfa Romeo 8C Spider",
+      "type": "Суперкар",
+      "rarity": "Р"
+    },
+    {
+      "id": 34,
+      "name": "Cadillac SRX Crossover",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 35,
+      "name": "Audi R8 V10",
+      "type": "Суперкар",
+      "rarity": "Р"
+    },
+    {
+      "id": 36,
+      "name": "BMW M3 Coupe",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 37,
+      "name": "Bristol Fighter T",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 38,
+      "name": "Caterham CSR260",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 39,
+      "name": "Chevrolet Traverse",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 40,
+      "name": "De Tomaso Pantera",
+      "type": "Классический",
+      "rarity": "СР"
+    },
+    {
+      "id": 41,
+      "name": "Бонус: Классная песня",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 42,
+      "name": "Ford Mustang GT",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 43,
+      "name": "Ginetta F400",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 44,
+      "name": "Honda CR-Z",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 45,
+      "name": "Jaguar XK150",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 46,
+      "name": "Koenigsegg CCR",
+      "type": "Суперкар",
+      "rarity": "УР"
+    },
+    {
+      "id": 47,
+      "name": "Lexus RX450h",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 48,
+      "name": "Chrysler Crossfire SRT-6",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 49,
+      "name": "Maybach 62S",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 50,
+      "name": "Morgan Roadster Sport",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 51,
+      "name": "Pagani Zonda Roadster F",
+      "type": "Суперкар",
+      "rarity": "СР"
+    },
+    {
+      "id": 52,
+      "name": "Porsche Cayenne Turbo",
+      "type": "Полноприводный",
+      "rarity": "СР"
+    },
+    {
+      "id": 53,
+      "name": "Rolls-Royce Phantom Coupe",
+      "type": "Представительский",
+      "rarity": "Р"
+    },
+    {
+      "id": 54,
+      "name": "Бонус: Перевёрнутый грузовик",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 55,
+      "name": "Tesla Model S",
+      "type": "Представительский",
+      "rarity": "СР"
+    },
+    {
+      "id": 56,
+      "name": "Wiesmann GT MF4",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 57,
+      "name": "Бонус: Неправильный поворот",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 58,
+      "name": "Aston Martin DB4 Coupe",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 59,
+      "name": "Alfa Romeo 159",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 60,
+      "name": "Aston Martin Rapide",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 61,
+      "name": "Audi TT RS",
+      "type": "Спорткар",
+      "rarity": "СР"
+    },
+    {
+      "id": 62,
+      "name": "BMW X1",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 63,
+      "name": "Ascari KZ1-R",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 64,
+      "name": "Ford Shelby GT500",
+      "type": "Спорткар",
+      "rarity": "СР"
+    },
+    {
+      "id": 65,
+      "name": "Knight XV",
+      "type": "Полноприводный",
+      "rarity": "СР"
+    },
+    {
+      "id": 66,
+      "name": "Donkervoort D8 GT (270)",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 67,
+      "name": "Chevrolet Equinox",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 68,
+      "name": "Бонус: \"Пламя скорости\"",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 69,
+      "name": "Jaguar E-Type",
+      "type": "Классический",
+      "rarity": "Р"
+    },
+    {
+      "id": 70,
+      "name": "Ford Focus RS",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 71,
+      "name": "Land Rover Discovery",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 72,
+      "name": "Lotus Exige Cup 260",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 73,
+      "name": "Mercedes-Benz S 65 AMG",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 74,
+      "name": "Morgan Plus 4",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 75,
+      "name": "Pagani Zonda F",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 76,
+      "name": "Porsche Panamera Turbo",
+      "type": "Представительский",
+      "rarity": "Р"
+    },
+    {
+      "id": 77,
+      "name": "Бонус: Спутниковый навигатор",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 78,
+      "name": "Subaru Impreza WRX STI",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 79,
+      "name": "Toyota Land Cruiser",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 80,
+      "name": "Audi A8",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 81,
+      "name": "Wiesmann Roadster MF5",
+      "type": "Спорткар",
+      "rarity": "Р"
+    },
+    {
+      "id": 82,
+      "name": "Aston Martin DB5",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 83,
+      "name": "Alfa Romeo GT 3.2 V6",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 84,
+      "name": "Volkswagen Scirocco R",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 85,
+      "name": "BMW M1",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 86,
+      "name": "Bugatti Veyron Supersport",
+      "type": "Суперкар",
+      "rarity": "СР"
+    },
+    {
+      "id": 87,
+      "name": "Chevrolet Silverado",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 88,
+      "name": "Бонус: Оттаивание",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 89,
+      "name": "Elfin T5",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 90,
+      "name": "Ford Explorer",
+      "type": "Полноприводный",
+      "rarity": "СР"
+    },
+    {
+      "id": 91,
+      "name": "Honda Accord Type S",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 92,
+      "name": "Jaguar XK120",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 93,
+      "name": "Koenigsegg Trevita",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 94,
+      "name": "Lexus IS 250C",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 95,
+      "name": "Mercedes-Benz GL 500",
+      "type": "Полноприводный",
+      "rarity": "Р"
+    },
+    {
+      "id": 96,
+      "name": "Morgan Aero Supersports",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 97,
+      "name": "Porsche 911 GT3 RS",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 98,
+      "name": "Range Rover Autobiography",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 99,
+      "name": "Бонус: Шины для езды по снегу",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 100,
+      "name": "Alfa Romeo 147 Collezione",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 101,
+      "name": "Volkswagen Touareg",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 102,
+      "name": "Wiesmann Roadster MF4",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 103,
+      "name": "Aston Martin V8 Vantage",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 104,
+      "name": "Alfa Romeo MiTo",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 105,
+      "name": "Porsche Carrera GT",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 106,
+      "name": "BMW 135i",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 107,
+      "name": "Caparo T1",
+      "type": "Суперкар",
+      "rarity": "СР"
+    },
+    {
+      "id": 108,
+      "name": "Citroen DS",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 109,
+      "name": "Dodge Viper SRT-10",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 110,
+      "name": "Ford Escape",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 111,
+      "name": "Бонус: Зелёный сигнал светофора",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 112,
+      "name": "Jaguar Mk2",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 113,
+      "name": "Koenigsegg CCXR",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 114,
+      "name": "Lotus Evora",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 115,
+      "name": "Mercedes-Benz SL55 AMG",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 116,
+      "name": "Бонус: Впрыск закиси азота",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 117,
+      "name": "Porsche 959",
+      "type": "Классический",
+      "rarity": "Р"
+    },
+    {
+      "id": 118,
+      "name": "Rolls-Royce Ghost",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 119,
+      "name": "Spyker C12 Zagato",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 120,
+      "name": "Toyota Tacoma",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 121,
+      "name": "Wiesmann Roadster MF3",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 122,
+      "name": "Aston Martin DB7 Zagato",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 123,
+      "name": "Ascari A10",
+      "type": "Суперкар",
+      "rarity": "УР"
+    },
+    {
+      "id": 124,
+      "name": "BMW 507",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 125,
+      "name": "Bugatti Veyron",
+      "type": "Суперкар",
+      "rarity": "СР"
+    },
+    {
+      "id": 126,
+      "name": "Chevrolet Tahoe",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 127,
+      "name": "Dodge Charger",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 128,
+      "name": "Ford Kuga",
+      "type": "Полноприводный",
+      "rarity": "Р"
+    },
+    {
+      "id": 129,
+      "name": "Honda Civic Type R",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 130,
+      "name": "Aston Martin DBS V12 Vantage",
+      "type": "Суперкар",
+      "rarity": "Р"
+    },
+    {
+      "id": 131,
+      "name": "Jeep Liberty",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 132,
+      "name": "Lexus GS 450h",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 133,
+      "name": "Mercedes-Benz G55 AMG",
+      "type": "Полноприводный",
+      "rarity": "СР"
+    },
+    {
+      "id": 134,
+      "name": "Noble M600",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 135,
+      "name": "Audi RS5",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 136,
+      "name": "Бонус: Внезапное падение камня",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 137,
+      "name": "Supacat SPV400",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 138,
+      "name": "Aston Martin One-77",
+      "type": "Суперкар",
+      "rarity": "СР"
+    },
+    {
+      "id": 139,
+      "name": "Volkswagen Tiguan",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 140,
+      "name": "Ultima GTR 640",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 141,
+      "name": "BMW E60 M5",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 142,
+      "name": "Cadillac Eldorado",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 143,
+      "name": "Citroen DS3",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 144,
+      "name": "Fisker Karma",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 145,
+      "name": "Ginetta G50R",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 146,
+      "name": "Jaguar XKSS",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 147,
+      "name": "Lexus IS-F",
+      "type": "Представительский",
+      "rarity": "Р"
+    },
+    {
+      "id": 148,
+      "name": "Audi Q5",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 149,
+      "name": "Opel GT",
+      "type": "Спорткар",
+      "rarity": "Р"
+    },
+    {
+      "id": 150,
+      "name": "Бонус: Переезд",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 151,
+      "name": "Spyker C8 Aileron Coupe",
+      "type": "Суперкар",
+      "rarity": "УР"
+    },
+    {
+      "id": 152,
+      "name": "Jeep Compass",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 153,
+      "name": "Wiesmann GT MF5",
+      "type": "Спорткар",
+      "rarity": "УР"
+    },
+    {
+      "id": 154,
+      "name": "Aston Martin V8 Vantage Volante",
+      "type": "Классический",
+      "rarity": "Р"
+    },
+    {
+      "id": 155,
+      "name": "Audi A3",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 156,
+      "name": "Bowler Nemesis",
+      "type": "Полноприводный",
+      "rarity": "СР"
+    },
+    {
+      "id": 157,
+      "name": "Lexus LFA",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 158,
+      "name": "Dodge Ram 2500",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 159,
+      "name": "Бонус: Заправка",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 160,
+      "name": "Jaguar ZJ220",
+      "type": "Классический",
+      "rarity": "Р"
+    },
+    {
+      "id": 161,
+      "name": "Lexus GX460",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 162,
+      "name": "Mercedes-Benz SLS AMG",
+      "type": "Суперкар",
+      "rarity": "УР"
+    },
+    {
+      "id": 163,
+      "name": "Бонус: Классные изменения",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 164,
+      "name": "Saab 9-5",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 165,
+      "name": "Tesla Roadster Sport",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 166,
+      "name": "Weber Faster One",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 167,
+      "name": "Бонус: Огромные котята",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 168,
+      "name": "Audi Q7",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 169,
+      "name": "Porsche 928 GTS",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 170,
+      "name": "Бонус: Загрязнились свечи",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 171,
+      "name": "Ford Edge",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 172,
+      "name": "Jaguar XJ V8",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 173,
+      "name": "Land Rover Freelander 2",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 174,
+      "name": "Mercedes-Benz W113 Pagoda",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 175,
+      "name": "Cadillac Escalade",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 176,
+      "name": "Spada Codatronca TS",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 177,
+      "name": "Volkswagen Passat CC",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 178,
+      "name": "Alfa Romeo BC Coupe",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 179,
+      "name": "Audi S3",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 180,
+      "name": "Koenigsegg Agera",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 181,
+      "name": "Dodge Dakota",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 182,
+      "name": "GTA Spano",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 183,
+      "name": "Chevrolet Avalanche",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 184,
+      "name": "Mercedes-Benz 300SL Roadster",
+      "type": "Классический",
+      "rarity": "Р"
+    },
+    {
+      "id": 185,
+      "name": "Pagani Zonda Roadster Cinque",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 186,
+      "name": "Бонус: Вьюга",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 187,
+      "name": "Volkswagen Golf R",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 188,
+      "name": "Supacat HMT 400",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 189,
+      "name": "BMW M6",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 190,
+      "name": "Chrysler 300C SRT-8",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 191,
+      "name": "Бонус: Шины лопнули",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 192,
+      "name": "Jaguar XKR Coupe",
+      "type": "Представительский",
+      "rarity": "Р"
+    },
+    {
+      "id": 193,
+      "name": "Marussia B1",
+      "type": "Суперкар",
+      "rarity": "УР"
+    },
+    {
+      "id": 194,
+      "name": "Бонус: Замена масла",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 195,
+      "name": "Seat Ibiza Bocanegra",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 196,
+      "name": "Ford Flex",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 197,
+      "name": "Alfa Romeo Brera",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 198,
+      "name": "BMW X6 M",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 199,
+      "name": "Daimler SP250",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 200,
+      "name": "Бонус: Полный бензобак",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 201,
+      "name": "Land Rover Defender",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 202,
+      "name": "Mini Cooper S Works",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 203,
+      "name": "Бонус: Ракетный ускоритель",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 204,
+      "name": "Бонус: Пробка",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 205,
+      "name": "Alfa Romeo Giulietta",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 206,
+      "name": "Бонус: Поломка мотора",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 207,
+      "name": "Elfin MS8 Streamliner",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 208,
+      "name": "Invicta S1",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 209,
+      "name": "Mazda CX-7",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 210,
+      "name": "Porsche Cayman S",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 211,
+      "name": "Toyota 2000GT",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 212,
+      "name": "Ariel Atom 3 300",
+      "type": "Спорткар",
+      "rarity": "СР"
+    },
+    {
+      "id": 213,
+      "name": "Cadillac XLR-V",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 214,
+      "name": "Бонус: Поломка кронштейна",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 215,
+      "name": "Jeep Commander",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 216,
+      "name": "Mercedes-Benz CLS 65 AMG",
+      "type": "Представительский",
+      "rarity": "СР"
+    },
+    {
+      "id": 217,
+      "name": "Бонус: Яма на дороге",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 218,
+      "name": "Toyota RAV 4",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 219,
+      "name": "Aston Martin DB9",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 220,
+      "name": "Campagna T-Rex 14R",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 221,
+      "name": "Fisker Tramonto",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 222,
+      "name": "Jeep Wrangler",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 223,
+      "name": "Mercedes-Benz SL 65 AMG Black",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 224,
+      "name": "Бонус: Опасность на дороге",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 225,
+      "name": "Subaru Tribeca",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 226,
+      "name": "Audi A1",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 227,
+      "name": "Chevrolet Colorado",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 228,
+      "name": "Volkswagen Polo GTI",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 229,
+      "name": "Range Rover Sport",
+      "type": "Полноприводный",
+      "rarity": "Р"
+    },
+    {
+      "id": 230,
+      "name": "Бонус: Перегрев двигателя",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 231,
+      "name": "Subaru Outback",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 232,
+      "name": "Mercedes-Benz E63 AMG",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 233,
+      "name": "Citroen C-Crosser",
+      "type": "Полноприводный",
+      "rarity": "Р"
+    },
+    {
+      "id": 234,
+      "name": "Honda S2000",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 235,
+      "name": "Бонус: Топливо заканчивается",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 236,
+      "name": "Porsche Boxster S",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 237,
+      "name": "Subaru Legacy",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 238,
+      "name": "Audi RS6",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 239,
+      "name": "Citroen C6",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 240,
+      "name": "Honda CR-V",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 241,
+      "name": "Mazda MX-5",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 242,
+      "name": "Бонус: Верхний багажник перегружен",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 243,
+      "name": "Subaru Forester",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 244,
+      "name": "BMW 760Li",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 245,
+      "name": "Dodge Challenger R/T",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 246,
+      "name": "Honda Legend",
+      "type": "Представительский",
+      "rarity": "Р"
+    },
+    {
+      "id": 247,
+      "name": "Mercedes-Benz SLK55 AMG",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 248,
+      "name": "Бонус: Пустая канистра",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 249,
+      "name": "BMW X5",
+      "type": "Полноприводный",
+      "rarity": "Р"
+    },
+    {
+      "id": 250,
+      "name": "Dodge Charger",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 251,
+      "name": "Joss Supercar",
+      "type": "Суперкар",
+      "rarity": "О"
+    },
+    {
+      "id": 252,
+      "name": "Morgan Aero 8",
+      "type": "Спорткар",
+      "rarity": "Р"
+    },
+    {
+      "id": 253,
+      "name": "Porsche 911 Turbo S",
+      "type": "Суперкар",
+      "rarity": "Р"
+    },
+    {
+      "id": 254,
+      "name": "Chevrolet Corvette",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 255,
+      "name": "Jeep Grand Cherokee",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 256,
+      "name": "KTM X-Bow 300",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 257,
+      "name": "Бонус: Вынужденная остановка",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 258,
+      "name": "Bowler Wildcat",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 259,
+      "name": "Ford Sierra Cosworth RS500",
+      "type": "Классический",
+      "rarity": "О"
+    },
+    {
+      "id": 260,
+      "name": "Lexus IS 250",
+      "type": "Представительский",
+      "rarity": "О"
+    }
+  ]
+}
