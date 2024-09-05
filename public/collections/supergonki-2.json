@@ -1,0 +1,876 @@
+{
+  "id": 983,
+  "name": "Супергонки - серия 2",
+  "cards": [
+    {
+      "id": 1,
+      "name": "ВМW R1200 R",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 2,
+      "name": "Bristol Series 6",
+      "type": "Классический",
+      "rarity": "УР"
+    },
+    {
+      "id": 3,
+      "name": "Бонус: Ужасное ДТП",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 4,
+      "name": "Dacia Logan",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 5,
+      "name": "Audi RS3 Sportback",
+      "type": "Спорткар",
+      "rarity": "Р"
+    },
+    {
+      "id": 6,
+      "name": "Kia Carens",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 7,
+      "name": "Triumph Scrambler",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 8,
+      "name": "BMW K1600 GTL",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 9,
+      "name": "Dacia Sandero Stepway",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 10,
+      "name": "Бонус: Путаница с топливом",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 11,
+      "name": "Volkswagen New Jetta",
+      "type": "Представительский",
+      "rarity": "Р"
+    },
+    {
+      "id": 12,
+      "name": "Triumph Bonneville",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 13,
+      "name": "Bristol Blenheim Speedster",
+      "type": "Спорткар",
+      "rarity": "СР"
+    },
+    {
+      "id": 14,
+      "name": "Kia Picanto",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 15,
+      "name": "BMW K1300 S",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 16,
+      "name": "Kia Rio II Sedan",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 17,
+      "name": "Бонус: Взрыв компрессора",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 18,
+      "name": "Mini Convertible",
+      "type": "Городской",
+      "rarity": "Р"
+    },
+    {
+      "id": 19,
+      "name": "Bristol Blenheim Roadster",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 20,
+      "name": "Triumph America",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 21,
+      "name": "Dacia Duster",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 22,
+      "name": "BMW K1300 R",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 23,
+      "name": "Mitsubishi Lancer Evolution",
+      "type": "Спорткар",
+      "rarity": "Р"
+    },
+    {
+      "id": 24,
+      "name": "Бонус: Перегрузка",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 25,
+      "name": "Kia Soul",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 26,
+      "name": "Kawasaki KX450F",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 27,
+      "name": "Subaru Cosworth Impreza CS400",
+      "type": "Спорткар",
+      "rarity": "СР"
+    },
+    {
+      "id": 28,
+      "name": "Subaru Exiga 2.0 GT",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 29,
+      "name": "Renault Megane Coupe Cabriolet",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 30,
+      "name": "Subaru R1 Turbo",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 31,
+      "name": "Бонус: Скалистая дорога",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 32,
+      "name": "Mitsubishi Pajero",
+      "type": "Полноприводный",
+      "rarity": "Р"
+    },
+    {
+      "id": 33,
+      "name": "Kawasaki VN900 Classic Special",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 34,
+      "name": "Mosler MT900S",
+      "type": "Суперкар",
+      "rarity": "УР"
+    },
+    {
+      "id": 35,
+      "name": "Kia Venga",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 36,
+      "name": "BMW F800 ST",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 37,
+      "name": "Chevrolet Camaro Convertible",
+      "type": "Спорткар",
+      "rarity": "Р"
+    },
+    {
+      "id": 38,
+      "name": "Бонус: Нашествие пришельцев",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 39,
+      "name": "Kia Sorento",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 40,
+      "name": "Kawasaki Versys 1000",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 41,
+      "name": "Ariel Atom 500 V8",
+      "type": "Суперкар",
+      "rarity": "СР"
+    },
+    {
+      "id": 42,
+      "name": "Subaru R2 Turbo",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 43,
+      "name": "Arash AF-10",
+      "type": "Суперкар",
+      "rarity": "УР"
+    },
+    {
+      "id": 44,
+      "name": "BMW F800 R",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 45,
+      "name": "Бонус: Неточная карта",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 46,
+      "name": "Renault Clio Gordini",
+      "type": "Спорткар",
+      "rarity": "Р"
+    },
+    {
+      "id": 47,
+      "name": "Kia Sportage",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 48,
+      "name": "Suzuki V-Strom DL650A",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 49,
+      "name": "Subaru Stella",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 50,
+      "name": "BMW F650 GS",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 51,
+      "name": "Audi A6 Allroad",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 52,
+      "name": "Бонус: Рентгеновский взгляд",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 53,
+      "name": "Renault Wind Roadster Gordini",
+      "type": "Спорткар",
+      "rarity": "Р"
+    },
+    {
+      "id": 54,
+      "name": "Suzuki GSX-R1000",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 55,
+      "name": "Audi R8 GT",
+      "type": "Суперкар",
+      "rarity": "СР"
+    },
+    {
+      "id": 56,
+      "name": "UAZ 469",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 57,
+      "name": "Audi A7 Sportback",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 58,
+      "name": "Honda CBR250R",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 59,
+      "name": "Бонус: Уничтожитель машин",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 60,
+      "name": "BMW X6M",
+      "type": "Полноприводный",
+      "rarity": "Р"
+    },
+    {
+      "id": 61,
+      "name": "UAZ Patriot",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 62,
+      "name": "BMW 1 Series M Coupe",
+      "type": "Представительский",
+      "rarity": "УР"
+    },
+    {
+      "id": 63,
+      "name": "Suzuki Splash",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 64,
+      "name": "UAZ Patriot Sport",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 65,
+      "name": "BMW X3 xDrive20d",
+      "type": "Полноприводный",
+      "rarity": "Р"
+    },
+    {
+      "id": 66,
+      "name": "Бонус: Штормовое предупреждение",
+      "type": "Бонус -",
+      "rarity": "Б"
+    },
+    {
+      "id": 67,
+      "name": "Honda CB1000R",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 68,
+      "name": "Suzuki SX4",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 69,
+      "name": "Vauxhall VXR8",
+      "type": "Суперкар",
+      "rarity": "СР"
+    },
+    {
+      "id": 70,
+      "name": "Suzuki GSX-R750",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 71,
+      "name": "UAZ Pick-up",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 72,
+      "name": "Honda CBR1000RR Fireblade",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 73,
+      "name": "Бонус: Огромные выхлопные трубы",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 74,
+      "name": "BMW M5",
+      "type": "Представительский",
+      "rarity": "Р"
+    },
+    {
+      "id": 75,
+      "name": "Suzuki Jimny",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 76,
+      "name": "Suzuki GSX-R600",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 77,
+      "name": "Chrysler Grand Voyager 2.8",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 78,
+      "name": "Dodge Journey 2.7",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 79,
+      "name": "BMW xDrive 550i Gran Turismo",
+      "type": "Полноприводный",
+      "rarity": "Р"
+    },
+    {
+      "id": 80,
+      "name": "Бонус: Замена двигателя",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 81,
+      "name": "ЗиЛ-41041 Седан",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 82,
+      "name": "Honda GL1800 Gold Wing",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 83,
+      "name": "Chevrolet Corvette ZR1",
+      "type": "Суперкар",
+      "rarity": "СР"
+    },
+    {
+      "id": 84,
+      "name": "Volkswagen Passat Variant",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 85,
+      "name": "Suzuki GSX1250FA",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 86,
+      "name": "ЗиЛ-41047",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 87,
+      "name": "Бонус: Холодный воздух",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 88,
+      "name": "BMW Activehybrid 7",
+      "type": "Представительский",
+      "rarity": "Р"
+    },
+    {
+      "id": 89,
+      "name": "Honda ST1300 Pan European",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 90,
+      "name": "Volkswagen Touran",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 91,
+      "name": "BMW 335i SE Coupe",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 92,
+      "name": "Triumph Speed Triple",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 93,
+      "name": "Mini Roadster S",
+      "type": "Спорткар",
+      "rarity": "Р"
+    },
+    {
+      "id": 94,
+      "name": "Бонус: Ограничитель скорости сломан",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 95,
+      "name": "Honda VFR800",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 96,
+      "name": "BMW M3 GTS",
+      "type": "Суперкар",
+      "rarity": "СР"
+    },
+    {
+      "id": 97,
+      "name": "Mitsubishi ASX 4",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 98,
+      "name": "Suzuki GSX650FA",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 99,
+      "name": "BMW C650 GT",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 100,
+      "name": "Honda CB600F Hornet",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 101,
+      "name": "Бонус: Замена кузовных панелей",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 102,
+      "name": "Suzuki Hayabusa GSX 1300R",
+      "type": "Мотоцикл",
+      "rarity": "Р"
+    },
+    {
+      "id": 103,
+      "name": "Mitsubishi Colt Juro",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 104,
+      "name": "Chevrolet Orlando",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 105,
+      "name": "Renault Laguna Coupe",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 106,
+      "name": "Triumph Tiger Explorer",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 107,
+      "name": "Suzuki Intruder M1800RZ Cruiser",
+      "type": "Мотоцикл",
+      "rarity": "Р"
+    },
+    {
+      "id": 108,
+      "name": "Бонус: Летающая машина",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 109,
+      "name": "Renault Modus",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 110,
+      "name": "Mitsubishi i-MiEV",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 111,
+      "name": "Honda CBR125R",
+      "type": "Мотоцикл",
+      "rarity": "СР"
+    },
+    {
+      "id": 112,
+      "name": "Chevrolet Captiva",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 113,
+      "name": "Triumph Thruxton",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 114,
+      "name": "Triumph Thunderbird",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 115,
+      "name": "Бонус: Короткий путь",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 116,
+      "name": "Kawasaki ZZR1400",
+      "type": "Мотоцикл",
+      "rarity": "Р"
+    },
+    {
+      "id": 117,
+      "name": "Mitsubishi L200 Warrior",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 118,
+      "name": "Suzuki Gladius SFV650A",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 119,
+      "name": "Chevrolet Cruze Sedan",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 120,
+      "name": "Mitsubishi L200 Barbarian",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 121,
+      "name": "Triumph Street Triple R",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 122,
+      "name": "Бонус: Робот-сборщик вышел из строя",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 123,
+      "name": "Kawasaki VN1700 Voyager Custom",
+      "type": "Мотоцикл",
+      "rarity": "Р"
+    },
+    {
+      "id": 124,
+      "name": "Chevrolet Volt",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 125,
+      "name": "Honda VT1300CX Fury",
+      "type": "Мотоцикл",
+      "rarity": "СР"
+    },
+    {
+      "id": 126,
+      "name": "Suzuki Bandit GSF650A",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 127,
+      "name": "Mitsubishi Lancer",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 128,
+      "name": "Triumph Sprint GT",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 129,
+      "name": "Бонус: Вооружённая охрана",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 130,
+      "name": "Triumph Rocket III Touring",
+      "type": "Мотоцикл",
+      "rarity": "Р"
+    },
+    {
+      "id": 131,
+      "name": "Mitsubishi Outlander",
+      "type": "Полноприводный",
+      "rarity": "О"
+    },
+    {
+      "id": 132,
+      "name": "Renault Espace",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 133,
+      "name": "Renault Twizy",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 134,
+      "name": "Renault Fluence Z.E.",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 135,
+      "name": "Triumph Speedmaster",
+      "type": "Мотоцикл",
+      "rarity": "О"
+    },
+    {
+      "id": 136,
+      "name": "Бонус: Новая машина",
+      "type": "Бонус +",
+      "rarity": "Б"
+    },
+    {
+      "id": 137,
+      "name": "BMW S1000 RR",
+      "type": "Мотоцикл",
+      "rarity": "Р"
+    },
+    {
+      "id": 138,
+      "name": "BMW 550i SE Gran Turismo",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 139,
+      "name": "BMW HP2 Sport",
+      "type": "Мотоцикл",
+      "rarity": "СР"
+    },
+    {
+      "id": 140,
+      "name": "BMW 120i SE Convertible",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 141,
+      "name": "BMW 335i SE Convertible",
+      "type": "Представительский",
+      "rarity": "О"
+    },
+    {
+      "id": 142,
+      "name": "Mini John Cooper Works Coupe",
+      "type": "Спорткар",
+      "rarity": "О"
+    },
+    {
+      "id": 143,
+      "name": "Triumph Daytona 675R",
+      "type": "Мотоцикл",
+      "rarity": "УР"
+    },
+    {
+      "id": 144,
+      "name": "Mini Cooper S Hampton Clubman",
+      "type": "Городской",
+      "rarity": "О"
+    },
+    {
+      "id": 145,
+      "name": "BMW 650i SE Convertible",
+      "type": "Представительский",
+      "rarity": "О"
+    }
+  ]
+}

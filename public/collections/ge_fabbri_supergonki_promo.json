@@ -1,0 +1,516 @@
+{
+  "id": 508,
+  "name": "Супергонки (промо-версия)",
+  "cards": [
+    {
+      "id": 1,
+      "name": "aston martin DB9",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 2,
+      "name": "aston martin DBS V12 vantage",
+      "type": "Автомобиль",
+      "rarity": "Р"
+    },
+    {
+      "id": 3,
+      "name": "aston martin rapide",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 4,
+      "name": "bristol fighter T",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 5,
+      "name": "honda NSX-R",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 6,
+      "name": "koenigsegg CCX",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 7,
+      "name": "koenigsegg CCR",
+      "type": "Автомобиль",
+      "rarity": "УР"
+    },
+    {
+      "id": 8,
+      "name": "koenigsegg trevita",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 9,
+      "name": "mercedes-benz SL 65 AMG black",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 10,
+      "name": "mercedes-benz SLS AMG",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 11,
+      "name": "pagani zonda roadster F",
+      "type": "Автомобиль",
+      "rarity": "СР"
+    },
+    {
+      "id": 12,
+      "name": "pagani zonda roadster cinque",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 13,
+      "name": "lexus LFA",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 14,
+      "name": "caparo T1",
+      "type": "Автомобиль",
+      "rarity": "СР"
+    },
+    {
+      "id": 15,
+      "name": "marussia B1",
+      "type": "Автомобиль",
+      "rarity": "УР"
+    },
+    {
+      "id": 16,
+      "name": "range rover autobiography",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 17,
+      "name": "range rover sport",
+      "type": "Автомобиль",
+      "rarity": "Р"
+    },
+    {
+      "id": 18,
+      "name": "volkswagen touareg",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 19,
+      "name": "bowler nemesis",
+      "type": "Автомобиль",
+      "rarity": "СР"
+    },
+    {
+      "id": 20,
+      "name": "bowler wildcat",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 21,
+      "name": "bmw X5",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 22,
+      "name": "bmw X6 M",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 23,
+      "name": "land rover discovery",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 24,
+      "name": "land rover defender",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 25,
+      "name": "mercedes-benz GSS AMG",
+      "type": "Автомобиль",
+      "rarity": "СР"
+    },
+    {
+      "id": 26,
+      "name": "mercedes-benz GL 500",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 27,
+      "name": "ford kuga",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 28,
+      "name": "cadillac escalade",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 29,
+      "name": "lexus RX450H",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 30,
+      "name": "toyota RAV 4",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 31,
+      "name": "bmw E60 M5",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 32,
+      "name": "bmw M3 coupe",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 33,
+      "name": "bmw 760Li",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 34,
+      "name": "jaguar XFR",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 35,
+      "name": "jaguar XKR coupe",
+      "type": "Автомобиль",
+      "rarity": "Р"
+    },
+    {
+      "id": 36,
+      "name": "jaguar XJ V8",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 37,
+      "name": "maybach 62 S",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 38,
+      "name": "mercedes-benz C 63 AMG",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 39,
+      "name": "mercedes-benz SL55 AMG",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 40,
+      "name": "mercedes-benz S 65 AMG",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 41,
+      "name": "rolls-royce ghost",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 42,
+      "name": "rolls-royce phantom coupe",
+      "type": "Автомобиль",
+      "rarity": "Р"
+    },
+    {
+      "id": 43,
+      "name": "volkswagen phaeton",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 44,
+      "name": "volkswagen passat CC",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 45,
+      "name": "lexus IS-F",
+      "type": "Автомобиль",
+      "rarity": "Р"
+    },
+    {
+      "id": 46,
+      "name": "ariel atom 3 300",
+      "type": "Автомобиль",
+      "rarity": "СР"
+    },
+    {
+      "id": 47,
+      "name": "bmw Z4 roadster",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 48,
+      "name": "ford mustang GT",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 49,
+      "name": "ford shelby GT500",
+      "type": "Автомобиль",
+      "rarity": "СР"
+    },
+    {
+      "id": 50,
+      "name": "ford focus RS",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 51,
+      "name": "honda S2000",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 52,
+      "name": "ktm x-bow 300",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 53,
+      "name": "lotus evora",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 54,
+      "name": "lotus exige cup 260",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 55,
+      "name": "morgan aero 8",
+      "type": "Автомобиль",
+      "rarity": "Р"
+    },
+    {
+      "id": 56,
+      "name": "subaru impreza WRX STI",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 57,
+      "name": "tesla roadster sport",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 58,
+      "name": "volkswagen golf GTI",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 59,
+      "name": "mazda MX - 5",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 60,
+      "name": "mini cooper S works",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 61,
+      "name": "ford GT40",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 62,
+      "name": "mercedes-benz 300SL roadster",
+      "type": "Автомобиль",
+      "rarity": "Р"
+    },
+    {
+      "id": 63,
+      "name": "jaguar E-TYPE",
+      "type": "Автомобиль",
+      "rarity": "Р"
+    },
+    {
+      "id": 64,
+      "name": "bmw 507",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 65,
+      "name": "dodge challenger R/T",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 66,
+      "name": "aston martin DB4 coupe",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 67,
+      "name": "aston martin DB5",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 68,
+      "name": "aston martin V8 vantage",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 69,
+      "name": "bmw 3.0 CSL",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 70,
+      "name": "bmw M1",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 71,
+      "name": "chevrolet corvette",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 72,
+      "name": "delorean",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 73,
+      "name": "alfa romeo montreal",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 74,
+      "name": "toyota 2000GT",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 75,
+      "name": "alfa romeo spider",
+      "type": "Автомобиль",
+      "rarity": "О"
+    },
+    {
+      "id": 76,
+      "name": "\"Загрязнились свечи зажигания!\"",
+      "type": "Бонусная карта",
+      "rarity": "О"
+    },
+    {
+      "id": 77,
+      "name": "\"Шины лопнули!\"",
+      "type": "Бонусная карта",
+      "rarity": "О"
+    },
+    {
+      "id": 78,
+      "name": "\"Вьюга!\"",
+      "type": "Бонусная карта",
+      "rarity": "О"
+    },
+    {
+      "id": 79,
+      "name": "\"Верхний багажник перегружен!\"",
+      "type": "Бонусная карта",
+      "rarity": "О"
+    },
+    {
+      "id": 80,
+      "name": "\"Яма на дороге!\"",
+      "type": "Бонусная карта",
+      "rarity": "О"
+    },
+    {
+      "id": 81,
+      "name": "\"Топливо заканчивается!\"",
+      "type": "Бонусная карта",
+      "rarity": "О"
+    },
+    {
+      "id": 82,
+      "name": "\"Шины для езды по снегу\"",
+      "type": "Бонусная карта",
+      "rarity": "О"
+    },
+    {
+      "id": 83,
+      "name": "\"Ракетный ускоритель!\"",
+      "type": "Бонусная карта",
+      "rarity": "О"
+    },
+    {
+      "id": 84,
+      "name": "\"Крутой спуск!\"",
+      "type": "Бонусная карта",
+      "rarity": "О"
+    },
+    {
+      "id": 85,
+      "name": "\"Заправка!\"",
+      "type": "Бонусная карта",
+      "rarity": "О"
+    }
+  ]
+}
