@@ -38,7 +38,7 @@ export const useCollections = createGlobalState(() => {
 
   const { state: collection, isLoading, execute } = useAsyncState<Collection | null>(async () => {
     if (!activeCollection.value) return null
-    const req = await fetch(`/collections/${activeCollection.value}.json`)
+    const req = await fetch(`collections/${activeCollection.value}.json`)
     return await req.json()
   }, null, { resetOnExecute: false })
 
