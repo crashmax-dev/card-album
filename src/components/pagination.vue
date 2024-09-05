@@ -2,9 +2,9 @@
   <div class="pagination">
     <button @click="prevPage" @wheel="prevPage">Назад</button>
     <select v-model="pagination.page">
-      <template v-for="i in pagination.totalPages" :key="i">
-        <option v-if="isOdd(i)" :value="i">
-          {{ currentPage(i) }}
+      <template v-for="page in pagination.totalPages" :key="page">
+        <option :value="page">
+          {{ page }}
         </option>
       </template>
     </select>
@@ -16,14 +16,6 @@
 import { usePagination } from '@/composables/use-pagination'
 
 const { pagination, nextPage, prevPage } = usePagination()
-
-function isOdd(num: number) {
-  return num % 2 !== 0
-}
-
-function currentPage(num: number) {
-  return (isOdd(num) ? num + 1 : num) / 2
-}
 </script>
 
 <style scoped>

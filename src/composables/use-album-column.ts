@@ -23,8 +23,8 @@ export const useAlbumColumn = createGlobalState(() => {
 
   function updateAlbumColumns() {
     const isThreeColumns = albumColumns.value === AlbumSize.Three
-    // 9 ячеек - 3x3, 4 ячейки - 2x2
-    pagination.perPage = isThreeColumns ? 9 : 4
+    // 18 ячеек - 3x3x2, 8 ячеек - 2x2x2
+    pagination.perPage = isThreeColumns ? 18 : 8
     pagination.page = 1
   }
 

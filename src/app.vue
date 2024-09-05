@@ -3,35 +3,22 @@
     <AlbumProgress />
 
     <div class="albums">
-      <Album :columns="albumColumns">
-        <TransitionGroup name="left">
-          <AlbumItem
-            v-for="item in albumItems"
-            :key="item"
-            :id="item"
-            @click="toggleAlbumItem(item)"
-            :active="hasAlbumItem(item)"
-            :is-large="albumColumns === AlbumSize.Two"
-          >
-            {{ item }}
-          </AlbumItem>
-        </TransitionGroup>
-      </Album>
-
-      <Album :columns="albumColumns">
-        <TransitionGroup name="right">
-          <AlbumItem
-            v-for="item in albumItems.map((item) => item + pagination.perPage)"
-            :key="item"
-            :id="item"
-            @click="toggleAlbumItem(item)"
-            :active="hasAlbumItem(item)"
-            :is-large="albumColumns === AlbumSize.Two"
-          >
-            {{ item }}
-          </AlbumItem>
-        </TransitionGroup>
-      </Album>
+      <template v-for="(page, key) of albumPages" :key="key">
+        <Album v-if="page.length" :columns="albumColumns">
+          <TransitionGroup name="left">
+            <AlbumItem
+              v-for="item in page"
+              :key="item"
+              :id="item"
+              @click="toggleAlbumItem(item)"
+              :active="hasAlbumItem(item)"
+              :is-large="albumColumns === AlbumSize.Two"
+            >
+              {{ item }}
+            </AlbumItem>
+          </TransitionGroup>
+        </Album>
+      </template>
     </div>
 
     <AlbumButtons />
@@ -48,11 +35,9 @@ import AlbumProgress from './components/album/album-progress.vue'
 
 import { useAlbum } from './composables/use-album'
 import { AlbumSize, useAlbumColumn } from './composables/use-album-column'
-import { usePagination } from './composables/use-pagination'
 
-const { albumItems, toggleAlbumItem, hasAlbumItem } = useAlbum()
+const { albumPages, toggleAlbumItem, hasAlbumItem } = useAlbum()
 const { albumColumns, updateAlbumColumns } = useAlbumColumn()
-const { pagination } = usePagination()
 
 onMounted(updateAlbumColumns)
 </script>
