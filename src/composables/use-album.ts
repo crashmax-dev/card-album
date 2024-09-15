@@ -1,13 +1,30 @@
-import { computed } from 'vue'
+import { computed, watch } from 'vue'
 import { usePagination } from './use-pagination'
 import { createGlobalState, useLocalStorage } from '@vueuse/core'
+import { useCollections } from './use-collections'
 
 export const useAlbum = createGlobalState(() => {
-  const album = useLocalStorage<number[]>('album', [])
+  const { activeCollection, availableCollections } = useCollections()
+  const albums = useLocalStorage<{ [key: string]: number[] }>('albums', {})
   const { pagination, totalItems } = usePagination()
 
+  const album = computed({
+    get() {
+      return albums.value[activeCollection.value] || []
+    },
+    set(value) {
+      console.log(value)
+      albums.value[activeCollection.value] = value
+    },
+  })
+
+  watch(activeCollection, (collectionKey) => {
+    if (collectionKey in albums.value) return
+    albums.value[collectionKey] = []
+  }, { immediate: true })
+
   function clearAlbum() {
-    const confirm = window.confirm('Сбросить альбом?')
+    const confirm = window.confirm(`Очистить альбом с коллекцией "${availableCollections[activeCollection.value]}"?`)
     if (!confirm) return
     album.value = []
     pagination.page = 1

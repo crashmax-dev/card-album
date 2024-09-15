@@ -1,5 +1,5 @@
-import { ref, watch } from 'vue'
-import { createGlobalState, useAsyncState } from '@vueuse/core'
+import { watch } from 'vue'
+import { createGlobalState, useAsyncState, useLocalStorage } from '@vueuse/core'
 
 export interface Card {
   id: number
@@ -14,7 +14,8 @@ export interface Collection {
   cards: Card[]
 }
 
-const availableCollections = {
+const availableCollections: Record<string, string> = {
+  'empty': 'Без коллекции',
   'eaglemoss_transformers_prime': 'Трансформеры',
 
   'deagostini_beyblade_cards': 'Beyblade',
@@ -34,10 +35,10 @@ const availableCollections = {
 }
 
 export const useCollections = createGlobalState(() => {
-  const activeCollection = ref('')
+  const activeCollection = useLocalStorage('album-collection', 'empty')
 
   const { state: collection, isLoading, execute } = useAsyncState<Collection | null>(async () => {
-    if (!activeCollection.value) return null
+    if (activeCollection.value === 'empty') return null
     const req = await fetch(`collections/${activeCollection.value}.json`)
     return await req.json()
   }, null, { resetOnExecute: false })

@@ -3,8 +3,8 @@
     <AlbumProgress />
 
     <div class="albums">
-      <template v-for="(page, key) of albumPages" :key="key">
-        <Album v-if="page.length" :columns="albumColumns">
+      <template v-for="(page, key) of albumPages">
+        <Album v-if="page.length" :columns="albumColumns" :key="key">
           <TransitionGroup name="left">
             <AlbumItem
               v-for="item in page"
