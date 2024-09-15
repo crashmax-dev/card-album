@@ -4,8 +4,8 @@ import { createGlobalState, useMagicKeys } from '@vueuse/core'
 export const usePagination = createGlobalState(() => {
   const pagination = reactive({
     page: 1,
-    totalPages: 40,
-    perPage: 9,
+    totalPages: 21,
+    perPage: 18,
   })
 
   function setTotalPages(totalPages: number) {
@@ -18,12 +18,12 @@ export const usePagination = createGlobalState(() => {
 
   function prevPage() {
     if (pagination.page === 1) return
-    pagination.page--
+    pagination.page -= 1
   }
 
   function nextPage() {
     if (pagination.page === pagination.totalPages) return
-    pagination.page++
+    pagination.page += 1
   }
 
   useMagicKeys({
@@ -37,7 +37,9 @@ export const usePagination = createGlobalState(() => {
     }
   })
 
-  const totalItems = computed(() => pagination.perPage * pagination.totalPages)
+  const totalItems = computed(() => {
+    return pagination.perPage * pagination.totalPages - pagination.perPage
+  })
 
   return {
     totalItems,
