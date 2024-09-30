@@ -5,7 +5,7 @@
     <div class="albums">
       <template v-for="(page, key) of albumPages">
         <Album v-if="page.length" :columns="albumColumns" :key="key">
-          <TransitionGroup name="left">
+          <TransitionGroup name="item">
             <AlbumItem
               v-for="item in page"
               :key="item"
@@ -56,32 +56,17 @@ onMounted(updateAlbumColumns)
   gap: 32px;
 }
 
-.right-move,
-.right-enter-active,
-.right-leave-active {
+.item-move,
+.item-enter-active,
+.item-leave-active {
   transition: all .5s ease;
 }
-.right-enter-from,
-.right-leave-to {
-  opacity: 0;
-  transform: translateX(100px);
-}
-.right-leave-active {
-  position: absolute;
-  transform: translateY(-300px);
-}
-
-.left-move,
-.left-enter-active,
-.left-leave-active {
-  transition: all .5s ease;
-}
-.left-enter-from,
-.left-leave-to {
+.item-enter-from,
+.item-leave-to {
   opacity: 0;
   transform: translateX(-100px);
 }
-.left-leave-active {
+.item-leave-active {
   position: absolute;
   transform: translateY(-300px);
 }

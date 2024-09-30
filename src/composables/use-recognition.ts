@@ -1,7 +1,7 @@
-import { createGlobalState, useSpeechRecognition } from "@vueuse/core"
-import { watch } from "vue"
-import { usePagination } from "./use-pagination"
-import { useAlbum } from "./use-album"
+import { watch } from 'vue'
+import { createGlobalState, useSpeechRecognition } from '@vueuse/core'
+import { usePagination } from './use-pagination'
+import { useAlbum } from './use-album'
 
 interface RecogintionGrammar {
   grammars: string[]
