@@ -10,16 +10,16 @@
     "laststicker": "node ./laststicker/main.js"
   },
   "dependencies": {
-    "@vueuse/core": "11.0.3",
-    "vue": "3.5.5"
+    "@vueuse/core": "11.1.0",
+    "vue": "3.5.10"
   },
   "devDependencies": {
     "@types/dom-speech-recognition": "0.0.4",
     "@types/node": "20.14.11",
-    "@vitejs/plugin-vue": "5.1.3",
-    "selenium-webdriver": "4.24.0",
-    "typescript": "5.4.5",
-    "vite": "5.4.5",
+    "@vitejs/plugin-vue": "5.1.4",
+    "selenium-webdriver": "4.25.0",
+    "typescript": "5.6.2",
+    "vite": "5.4.8",
     "vue-tsc": "2.1.6"
   }
 }

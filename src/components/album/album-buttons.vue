@@ -34,7 +34,7 @@ const { clearAlbum } = useAlbum()
 const { availableCollections, activeCollection } = useCollections()
 </script>
 
-<style scoped lang="scss">
+<style scoped>
 .album-buttons {
   display: flex;
   flex-direction: column;
